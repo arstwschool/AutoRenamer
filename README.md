@@ -41,6 +41,6 @@ python main.pyw
 4. **執行**：確認無誤後，點擊綠色「確認並批量重命名」按鈕。
 
 ### ⚙️ 技術細節
-**GUI Framework**: CustomTkinter
-**PDF Engine**: PyMuPDF (Fitz)
-**AI Model**: 預設使用 gpt-5-mini (請確保您的 API 支援，或在程式碼中修改)。
+* **GUI Framework**: CustomTkinter
+* **PDF Engine**: PyMuPDF (Fitz)
+* **AI Model**: 預設使用 gpt-5-mini (請確保您的 API 支援，或在程式碼中修改)。
